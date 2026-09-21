@@ -1,0 +1,10 @@
+{
+  "corp_name": "딥노이드",
+  "stock_code": "315640",
+  "corp_code": "01344831",
+  "report_codes": {"Q1": "11013", "H1": "11012", "Q3": "11014", "ANNUAL": "11011"},
+  "years_back": 5,
+  "recent_days": 30,
+  "repo_owner": "almor70111",
+  "repo_name": "deepnoid-dart-agent"
+}
