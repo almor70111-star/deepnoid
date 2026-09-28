@@ -1,0 +1,34 @@
+{
+  "company": {
+    "name": "딥노이드",
+    "corp_code": "01344831",
+    "stock_code": "315640",
+    "start_year": 2010
+  },
+  "dart": {
+    "base_url": "https://opendart.fss.or.kr/api",
+    "report_codes": {
+      "annual": "11011",
+      "half_year": "11012",
+      "quarterly_q1": "11013",
+      "quarterly_q3": "11014"
+    },
+    "download_original_reports": true,
+    "save_report_metadata": true
+  },
+  "financial_statement": {
+    "fs_div": "OFS",
+    "unit": "KRW",
+    "preferred_accounts": [
+      "자산총계", "유동자산", "비유동자산", "부채총계", "유동부채", "비유동부채",
+      "자본총계", "매출액", "영업수익", "매출원가", "매출총이익", "영업이익",
+      "법인세비용차감전순이익", "당기순이익", "영업활동현금흐름", "유형자산의 취득", "무형자산의 취득"
+    ]
+  },
+  "peers": [
+    {"name": "루닛", "stock_code": "328130"},
+    {"name": "뷰노", "stock_code": "338220"},
+    {"name": "제이엘케이", "stock_code": "322510"},
+    {"name": "코어라인소프트", "stock_code": "384470"}
+  ]
+}
